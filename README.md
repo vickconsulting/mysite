@@ -103,7 +103,7 @@
 
       <div class="relative">
         <div class="rounded-2xl overflow-hidden border shadow-lg">
-          <img src="https://images.unsplash.com/photo-1581091870626-3f2adf86b2e8?auto=format&fit=crop&w=1200&q=60" alt="CPR training" class="w-full h-72 object-cover" />
+          <img src="[https://images.unsplash.com/photo-1581091870626-3f2adf86b2e8?auto=format&fit=crop&w=1200&q=60" alt="CPR training" class="w-full h-72 object-cover](https://www.google.com/interests/saved/list/RKDMbAI_QnGClG1klHPELg?hl=en-US&q=AHA+Logo&sa=X&ved=2ahUKEwj74bbDrbGRAxUs1BoGHW7CKSAQ5oAKegQIAhAD)" />
         </div>
 
         <div class="mt-4 text-sm text-slate-600">Serving Indianapolis & Central Indiana • On-site & virtual options</div>
